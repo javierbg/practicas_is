@@ -1,8 +1,10 @@
 ## Extracción de requisitos
 
 #### Partes interesadas:
-* Parte uno
-* Parte dos
+* Desarrollador
+* Administrativo
+* Departamento de informática
+* ...
 
 #### Datos que gestiona el sistema:
 * Usuarios
@@ -13,6 +15,7 @@
   * Nombre (máx. 20 caracteres)
   * Tipo (gato, perro)
   * Dueño
+* ...
 
 #### Requisitos funcionales (ordenados por prioridad)
 1. Añadir nuevo usuario
@@ -23,9 +26,11 @@
 1. Modificar datos de mascota
 1. Mostrar todas las mascotas de un usuario
 1. Mostrar todas las mascotas de un tipo concreto
+1. ...
 
 #### Requisitos no funcionales
 * Sistema operativo Linux
 * Interfaz CLI
 * Lenguaje de implementación: C++
 * Máximo 10 GiB de almacenamiento
+* ...
